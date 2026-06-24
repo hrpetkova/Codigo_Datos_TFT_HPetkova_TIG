@@ -13,3 +13,6 @@ datos de zonas sísmicas podemos tener todo lo necesario.
 En caso de querer probar con datos fuera de los pre-establecidos, los campos que no tenemos deben llevar valor tipo númerico o texto, dentro de los parámetros
 de lo pre-establecido.
 Más información en los punto 3. Metodología y desarrollo del sistema y 4.Funcionamiento del geoportal de la Memoria.
+
+URL visor: https://hrpetkova.pythonanywhere.com/
+En caso de tener problemas de acceso desde la red de la escuela, debe accederse con una red de internet externa a las vinculadas con la UPM (Datos móviles o Fibra externa de la universidad)
